@@ -9,5 +9,5 @@ y me gusta automatizar procesos y crear proyectos con Python.
 Python · n8n · Power Automate · SQL · MongoDB · Java
 
 ## Contacto
-LinkedIn: https://linkedin.com/in/tu-perfil
-Correo: tu-correo@ejemplo.com
+LinkedIn: linkedin.com/in/sebastián-méndez-alfaro
+Correo: sebasmendez1.15@outlook.com
